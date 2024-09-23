@@ -1,0 +1,14 @@
+.table {
+    display: flex;
+    flex-direction: column;
+    padding: 20px;
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.tableContainer {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    width: 100%;
+}
